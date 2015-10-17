@@ -7,6 +7,8 @@ I simply add a outline of white boundary and ignoring area connected with whiteb
  Considering the difference of flaot value is needed.
  Gray(x,y) = (Float(x,y) - float_min)/(float_max - f_loat_min)*(gray_max - gray_min) + gray_min
 
+
+Command line parameters: cells_small.pgm 34
 */
 
 //Vs2012 update4
